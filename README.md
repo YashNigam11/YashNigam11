@@ -17,9 +17,6 @@
 ### ✍ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=YashNigam11&limit=5&theme=monokai&combine_all_yearly_contributions=true)
-
 ### 😂 Random Dev Meme
 ![QUOTES](https://quotier.vercel.app/quote)
 
@@ -28,8 +25,8 @@
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=yashnigam28&label=Profile%20Views&color=0&icon=5&pretty=false" />
 </a>
-
+[![](https://visitcount.itsvg.in/api?id=yashnigam28&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/YashNigam11) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yashnigam2s) 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
