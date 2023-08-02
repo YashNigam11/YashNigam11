@@ -26,7 +26,7 @@
 ---
 
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=nikhilrai-tech&label=Profile%20Views&color=1&pretty=false" />
+  <img src="https://visitcount.itsvg.in/api?id=yashnigam28&label=Profile%20Views&color=0&icon=5&pretty=false" />
 </a>
 
   ## 💰 You can help me by Donating
